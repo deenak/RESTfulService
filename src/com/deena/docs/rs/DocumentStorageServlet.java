@@ -1,4 +1,4 @@
-package com.citrix.docs.rs;
+package com.deena.docs.rs;
 
 import java.io.File;
 import java.io.FileInputStream;

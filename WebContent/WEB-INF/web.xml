@@ -8,7 +8,7 @@
 		<description></description>
 		<display-name>DocumentStorageServlet</display-name>
 		<servlet-name>DocumentStorageServlet</servlet-name>
-		<servlet-class>com.citrix.docs.rs.DocumentStorageServlet</servlet-class>
+		<servlet-class>com.deena.docs.rs.DocumentStorageServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>DocumentStorageServlet</servlet-name>
